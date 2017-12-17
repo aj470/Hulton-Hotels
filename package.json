@@ -1,0 +1,32 @@
+{
+  "name": "hulton_be",
+  "version": "0.0.0",
+  "private": true,
+  "author": "Kunal Pednekar",
+  "license": "MIT",
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "body-parser": "~1.17.1",
+    "cookie-parser": "^1.4.3",
+    "cors": "^2.8.3",
+    "debug": "~2.6.3",
+    "express": "~4.15.2",
+    "express-session": "^1.15.6",
+    "express-validator": "^3.2.0",
+    "jade": "~1.11.0",
+    "moment": "^2.19.4",
+    "morgan": "^1.8.2",
+    "mysql": "^2.15.0",
+    "passport": "^0.3.2",
+    "passport-local": "^1.0.0",
+    "promise": "^8.0.1",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0",
+    "serve-favicon": "~2.4.2"
+  },
+  "devDependencies": {
+    "nodemon": "^1.11.0"
+  }
+}
