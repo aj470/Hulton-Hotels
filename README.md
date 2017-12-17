@@ -1,6 +1,7 @@
 # Hulton API
 This documentation lists the endpoints of the API
 A basic overview of the routes in this API are as follows:
+
 | Route | Authorization |
 |--- | ---|
 |/users | Yes|
